@@ -1,8 +1,4 @@
- 👋 Hi, I’m @Sawonuok
- 👀 I’m interested in Statistics, Game Theory and Operations Research
- 🌱 I’m currently learning C, Python
- 💞️ I’m looking to collaborate on Optimisation projects. But i have just delved into Optimisation. 
- 📫 How to reach me mitra.sawon@gmail.com
+ Hi I'm Sawon Mitra, an independent UG Researcher. CUrrently working in fields like Market Design, Decision Sciences, Optimization, GT etc. Currently wrote a research paper set to be published. If intereseted to work together drop a mail on mitra.sawon@gmail.com. Also interested in Sustainability Projects.
 
 <!---
 Sawonuok/Sawonuok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
